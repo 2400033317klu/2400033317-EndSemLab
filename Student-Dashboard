@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="sidebar">
+        <h3>Menu</h3>
+        <p>Home</p>
+        <p>Courses</p>
+        <p>Marks</p>
+        <p>Notifications</p>
+    </div>
+
+    <div class="main">
+
+        <div class="topbar">Student Dashboard</div>
+
+        <div class="cards">
+            <div class="card">Courses: 5</div>
+            <div class="card">Marks Updated</div>
+            <div class="card">New Alerts</div>
+        </div>
+
+        <div class="activity">
+            <h4>Recent Activity</h4>
+            <p>• Assignment Submitted</p>
+            <p>• New Message</p>
+        </div>
+
+    </div>
+
+</body>
+</html>
